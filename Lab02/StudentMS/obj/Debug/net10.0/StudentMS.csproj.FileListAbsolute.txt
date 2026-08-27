@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\bin\Debug\net10.0\StudentMS.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\bin\Debug\net10.0\StudentMS.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\bin\Debug\net10.0\StudentMS.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\bin\Debug\net10.0\StudentMS.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\bin\Debug\net10.0\StudentMS.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\refint\StudentMS.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\StudentMS.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab02\StudentMS\obj\Debug\net10.0\ref\StudentMS.dll
