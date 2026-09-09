@@ -1,4 +1,6 @@
-﻿Queue<string> names = new Queue<string>();
+﻿using Lab03._Queue;
+
+Queue<string> names = new Queue<string>();
 
 // -- Enqueue: add items to the Back ----
 names.Enqueue("Aung");
@@ -76,3 +78,23 @@ catch (InvalidOperationException ex)
 {
     Console.WriteLine($"Error: {ex.Message}");
 }
+
+// ====================
+var sys = new TicketSystem();
+sys.Submit("Paing", "Can not login to school website");
+sys.Submit("Oo", "Can not submit tution fee");
+sys.Submit("Htet", "Email not working");
+
+Console.WriteLine();
+sys.ShowQueue();
+sys.ShowNext();
+
+Console.WriteLine();
+sys.ProcessNext();
+sys.ProcessNext();
+
+Console.WriteLine();
+sys.ShowQueue();
+
+sys.Submit("Diana", "Password reset");
+sys.ShowQueue();
