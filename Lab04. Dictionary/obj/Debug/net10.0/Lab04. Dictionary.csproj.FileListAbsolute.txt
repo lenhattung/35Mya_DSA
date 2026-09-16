@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\bin\Debug\net10.0\Lab04. Dictionary.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\bin\Debug\net10.0\Lab04. Dictionary.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\bin\Debug\net10.0\Lab04. Dictionary.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\bin\Debug\net10.0\Lab04. Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\bin\Debug\net10.0\Lab04. Dictionary.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\refint\Lab04. Dictionary.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\Lab04. Dictionary.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\35Mya_DSA\Lab04. Dictionary\obj\Debug\net10.0\ref\Lab04. Dictionary.dll
