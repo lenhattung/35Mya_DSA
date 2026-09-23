@@ -51,13 +51,66 @@
             return (cmps, swaps);
         }
 
+        static (int cmps, int swaps) SelectionSort(int[] arr, bool showTrace = false)
+        {
+            int n = arr.Length, cmps = 0, swaps = 0;
+
+            for (int i = 0; i < n - 1; i++)
+            {
+                int minIdx = i;
+
+                for (int j = i + 1; j < n; j++)    // find minimum in unsorted region
+                {
+                    cmps++;
+                    if (arr[j] < arr[minIdx]) minIdx = j;
+                }
+
+                if (minIdx != i)                    // swap only if needed
+                {
+                    Swap(arr, i, minIdx);
+                    swaps++;
+                }
+
+                if (showTrace)
+                    Print($"Pass {i + 1} (min={arr[i]})", arr);
+            }
+            return (cmps, swaps);
+        }
+
+        static (int cmps, int shifts) InsertionSort(int[] arr, bool showTrace = false)
+        {
+            int n = arr.Length, cmps = 0, shifts = 0;
+
+            for (int i = 1; i < n; i++)
+            {
+                int key = arr[i];   // element to be placed
+                int j = i - 1;
+
+                // Shift elements greater than key one position to the right
+                while (j >= 0 && arr[j] > key)
+                {
+                    cmps++;
+                    arr[j + 1] = arr[j];   // shift — NOT a swap
+                    shifts++;
+                    j--;
+                }
+                if (j >= 0) cmps++;        // the final failed comparison
+
+                arr[j + 1] = key;          // place key in correct position
+
+                if (showTrace)
+                    Print($"i={i} key={key}", arr);
+            }
+            return (cmps, shifts);
+        }
+
         public static void Main(string[] args)
         {
             // Test
             int[] data = { 64, 34, 25, 12, 22 };
             ArrayHelper.Print("Input", data);
 
-            var (c, s) = ArrayHelper.BubbleSort(data, showTrace: true);
+            var (c, s) = ArrayHelper.InsertionSort(data, showTrace: true);
 
             ArrayHelper.Print("Sorted", data);
             Console.WriteLine($"  Comparisons: {c}   Swaps: {s}");
