@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab05-Sorting/1.0.0": {
+        "runtime": {
+          "Lab05-Sorting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab05-Sorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
